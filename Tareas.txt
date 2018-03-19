@@ -1,0 +1,5 @@
+Este archivo se utilizara para ir anotando las tareas pendientes. Cuando se complete la tarea se anota
+
+                                               TAREAS:
+
+      -Crear archivo para reunir información de las librerias utilizadas. ***completado***
