@@ -7,3 +7,8 @@ Este archivo se utilizará para recopilar informacion de las librerias que utili
 Esta libreria se utiliza para crear la interfaz de usuario, con sus correspondientes ventanas,menus,botones... info:
       - Documentación oficial: (completo pero muy chapas) https://docs.python.org/2/library/tkinter.html
       - Tutorialpoint:(simple y sencillo) https://www.tutorialspoint.com/python/python_gui_programming.htm
+                                        
+                                                  os
+                                              
+Esta libreria permite controlar el ordenador como si estuvieramos en la consola:
+      - blog: https://recursospython.com/guias-y-manuales/os-shutil-archivos-carpetas/
